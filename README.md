@@ -1,6 +1,6 @@
 ### Sergi Pons
 
-I work in responsible sourcing in Barcelona, mostly on supplier assessments: collecting data and evidence from suppliers, reviewing it and following up. A good part of the job is Excel and data cleaning, so I use Python to speed it up.
+I work in responsible sourcing in Barcelona, mostly on supplier assessments: collecting data and evidence from suppliers, reviewing it and following up. A good part of the job is Excel and data cleaning, so I use Python to speed it up. I also work with Power BI: we connect the Excel files to reports to follow in real time the data we need to monitor. Those reports run on company data, so they're not here.
 
 I studied an MSc in marketing and business research at Universitat de Barcelona, I've been using Python since 2019, and I've taught a session on web scraping at UB Business School.
 
