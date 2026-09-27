@@ -4,12 +4,20 @@ I work in responsible sourcing in Barcelona, mostly on supplier assessments: col
 
 I studied an MSc in marketing and business research at Universitat de Barcelona, I've been using Python since 2019, and I've taught a session on web scraping at UB Business School.
 
-What's here are mostly prototypes. They helped me think through a problem, even when in the end I solved it with simpler scripts adapted to the real data:
+What I use:
+
+- [mailbox-insights](https://github.com/Sergi-pmm/mailbox-insights): report from a shared mailbox (Outlook or .mbox). It classifies the emails, groups the threads and shows how a supplier campaign is going.
+
+Prototypes. They helped me think through a problem, even when in the end I solved it with simpler scripts adapted to the real data:
 
 - [claim-review](https://github.com/Sergi-pmm/claim-review): offline tool to review the documents suppliers send to support a certified-material claim.
 - [suppliertrack](https://github.com/Sergi-pmm/suppliertrack): small CRM to keep track of supplier follow-ups during a campaign.
-- [assessment-consolidation](https://github.com/Sergi-pmm/assessment-consolidation): pandas notebook that turns a wide assessment export into a table you can compare.
+- [assessment-consolidation](https://github.com/Sergi-pmm/assessment-consolidation): pandas notebook that joins the assessments from two tabs of an export and checks that every supplier has both.
+
+Learning material:
+
 - [WebScrapingSession](https://github.com/Sergi-pmm/WebScrapingSession): material from my web scraping session at UB Business School.
+- [Pandas-methods](https://github.com/Sergi-pmm/Pandas-methods): the pandas cheat sheet I keep for cleaning data.
 
 I use Claude to write a good part of the code. I decide what to build and how it should work, and I test it.
 
