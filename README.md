@@ -4,7 +4,7 @@ I work in responsible sourcing in Barcelona, mostly on supplier assessments: col
 
 I studied an MSc in marketing and business research at Universitat de Barcelona, I've been using Python since 2019, and I've taught a session on web scraping at UB Business School.
 
-What I use:
+Built for my day-to-day work:
 
 - [mailbox-insights](https://github.com/Sergi-pmm/mailbox-insights): report from a shared mailbox (Outlook or .mbox). It classifies the emails, groups the threads and shows how a supplier campaign is going.
 
